@@ -1,3 +1,5 @@
+I cloned this repo from yangliu28 Indigo setup then I addapted it to ROS Kinetic
+
 # minimal_robot_gripper
 Simple robot gripper demonstration in ROS (5th homework for ROS class)
 
